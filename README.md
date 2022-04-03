@@ -7,9 +7,9 @@
 <h4 align="center">Frontend Engineer Technical Assessment.</h4>
 
 <p align="center">
-   • <a href="">View Demo</a>
-   • <a href="/issues">Report Bug</a>
-  • <a href="/issues">Request Feature</a> •
+   • <a href="s-makhutja-pltfrm45.vercel.app">View Demo</a>
+   • <a href="https://github.com/SegopotsoMakhutja/PLTFRM45/issues/new">Report Bug</a>
+  • <a href="https://github.com/SegopotsoMakhutja/PLTFRM45/issues/new">Request Feature</a> •
 </p>
 
 --- 
